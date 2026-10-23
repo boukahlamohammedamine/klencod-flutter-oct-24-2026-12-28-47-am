@@ -1,0 +1,6 @@
+{
+  "name": "ميزانيتي - ميزانية الجزائري",
+  "description": "تطبيق بسيط وشامل لتسيير ميزانية الفرد والأسرة الجزائرية، تتبع الراتب الشهري والمصاريف اليومية، مع محول السنتيم والحصالة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
